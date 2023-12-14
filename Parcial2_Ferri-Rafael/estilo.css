@@ -1,0 +1,18 @@
+header {
+    text-align: end;
+    justify-content:flex-start;  
+     
+    
+}
+
+.cuerpoMain {
+    padding: 20px;
+    background-color: grey;
+    /* align-items: flex-start; */
+    text-align: start;
+}
+
+.Formulario {
+    border-color: black;
+    background-color: aqua;
+}
